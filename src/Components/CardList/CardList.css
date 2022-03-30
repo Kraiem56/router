@@ -1,0 +1,16 @@
+.vv{
+    display: flex;
+    margin-left: 150px;
+   
+        --modifier: calc(70ch - 100%);
+    
+        display: flex;
+        flex-wrap: wrap;
+      }
+  .add{
+      text-align: center;
+  }
+  .bund{
+      margin-left: -1000px;
+      margin-top: 25px;
+  }

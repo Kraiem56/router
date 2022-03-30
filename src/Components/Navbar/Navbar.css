@@ -1,0 +1,61 @@
+.blue{
+    background-color: #954735;
+    color: white;
+    position: fixed;
+    height: 50px;
+   display: flex;
+}
+ul{
+    list-style: none;
+    display: flex;
+    align-items:center;
+   margin-left: 100px;
+}
+li{
+    margin-left: 50px;
+    color: white;
+}
+.logo{
+    
+    margin-left: 25px;
+    
+}
+.logojaguar:hover{
+    cursor: pointer; 
+
+}
+#a.active{
+    color: red;
+}
+.thq{
+    width: 300px;
+}
+.VÉHICULES{
+    width: 94px;
+    height: 72px;
+    cursor: pointer; 
+}
+
+.ACHAT{
+    width: 64.2px;
+    height: 72px;
+    cursor: pointer; 
+}
+.PROPRIÉTAIRES{
+    cursor: pointer; 
+    width: 62px;
+    height: 74px;
+}
+.EXPLOREZ{
+    cursor: pointer; 
+    width: 500px;
+    margin-left: 300px;
+   
+}
+.search{
+    cursor: pointer; 
+    
+    margin-top: 8px;
+   
+    
+}

@@ -1,0 +1,28 @@
+.ad0d{
+    margin-left: 800px;
+    width: 100px;
+    background-color: green;
+    color: white;
+
+}
+.Modal{
+    background-color: gray;
+    height: 400px;
+    width: 400px;
+    border-radius: 15px;
+}
+label{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.ptn{
+    margin-left: 150px;
+    
+}
+input{
+    margin-left: 25px;
+    width: 350px;
+}
+.rat{
+    text-align: center;
+}
